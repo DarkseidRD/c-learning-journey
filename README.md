@@ -2,10 +2,15 @@
 
 
 #**03-control-flow**
+
 1.switches.c---> C language switch
+
 2.Nif.c---> Nested if statement
+
 3.Lo1.c---> Logical operator(&&)
+
 4.Lo2.c---> Logical operator(||)
+
 5.Lo3.c---> Logical operator(!)
 
 
