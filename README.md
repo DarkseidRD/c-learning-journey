@@ -7,13 +7,12 @@
 
 1.basicfumction.c---> Basic function example 
 
-2.return-1.c---|
+2.return-1.c
 
-3.return-2.c   |-->return examples 
+3.return-2.c
 
-4.return-3.c---|
-
-
+4.return-3.c
+   (return-1,2,3- return example)
 
 
 #**📄03-control-flow**
