@@ -3,18 +3,6 @@
 
 
 
-#**📄04-functions**
-
-1.basicfumction.c---> Basic function example 
-
-2.return-1.c
-
-3.return-2.c
-
-4.return-3.c
-   (return-1,2,3- return example)
-
-
 #**📄03-control-flow**
 
 1.switches.c---> C language switch
@@ -26,6 +14,33 @@
 4.Lo2.c---> Logical operator(||)
 
 5.Lo3.c---> Logical operator(!)
+
+6.whileloop1.c
+
+7.whileloop2.c
+
+8.whileloop3.c
+
+9.whileloop4.c
+
+10.whileloop5.c
+(whileloop-1,2,3,4,5-while loop example)
+
+11.forloop.c--->For Loop
+
+
+
+
+#**📄04-functions**
+
+1.basicfumction.c---> Basic function example 
+
+2.return-1.c
+
+3.return-2.c
+
+4.return-3.c
+   (return-1,2,3- return example)
 
 
 
