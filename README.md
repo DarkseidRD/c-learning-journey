@@ -47,6 +47,8 @@
 4.return-3.c
    (return-1,2,3- return example)
 
+5.rand.c--->Random number    
+
 <br>
 <br>
 
@@ -59,3 +61,5 @@
 3.tem.c---> C program,It is temperature converter
 
 4.calculator.c---> C program,Basic Calculator.( use switches and if statement )
+
+5.numguessgame.c---> C program,Number Guess Game
