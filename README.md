@@ -31,7 +31,9 @@
 
 12.break_continue1.c---> break; continue;
 
-13.nestedloop-1,2-.c--->Nested loop
+13.nestedloop-1,2.c--->Nested loop
+
+14.ternaryOperator-1,2,3,4.c--->Ternary Operator
 
 <br>
 <br>
@@ -49,6 +51,30 @@
 
 5.rand.c--->Random number    
 
+6.variablescope.c---> Variable Scope
+
+7.functionprototypes.c--->Function Prototypes 
+
+<br>
+<br>
+
+#**📄05-arrays**
+
+1.arrays-1,2.c--->arrays 
+
+2.arraysuser-1,2.c--->Input
+
+3.2Darrays.c--->2D arrays
+
+4.arrayOfstring-1,2.c--->2D arrays string
+
+<br>
+<br>
+
+#**📄08-structures-unions**
+
+1.typedef-1,2.c--->Use typedef
+
 <br>
 <br>
 
@@ -63,3 +89,12 @@
 4.calculator.c---> C program,Basic Calculator.( use switches and if statement )
 
 5.numguessgame.c---> C program,Number Guess Game
+
+6.rockpaper.c--->C program, Rock Paper scissor Game
+
+7.banking.c--->C program, ATM
+
+8.numpad.c--->C program,Phone Number Pad
+
+9.quizgame.c--->C program,Quiz Game
+
