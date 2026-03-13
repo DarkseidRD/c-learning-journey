@@ -1,0 +1,19 @@
+============================================
+   C PROGRAMMING LEARNING CATEGORIES
+============================================
+
+Category             | Topics Covered
+---------------------|----------------------------------------
+01-basics            | Variables, data types, operators, syntax basics
+02-input-output      | printf(), scanf(), getchar(), putchar()
+03-control-flow      | if-else, switch, loops (for, while, do-while)
+04-functions         | Function declaration, definition, parameters, return values
+05-arrays            | One-dimensional and multi-dimensional arrays
+06-pointers          | Pointer arithmetic, pointers and arrays, dynamic memory
+07-file-handling     | File operations: fopen, fclose, fread, fwrite, fprintf, fscanf
+08-structures-unions | Structures, unions, typedef, nested structures
+projects             | Practical projects and mini-applications
+
+============================================
+Total Lessons: 9
+============================================
